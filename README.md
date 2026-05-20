@@ -1,6 +1,6 @@
 # AI-Hallucinations-Detection
 
-Motivation/Goals: 
+## Motivation/Goals: 
 
 This project’s motivation revolves around hallucinations. For this project, the definition of hallucinations is when a large language model (LLM) perceives patterns or objects that don’t exist or are nonsensical based on the reference text provided, leading to it producing incorrect outputs. Hallucinations are incredibly common when asking questions in AI, leading to misleading, misinformed, or dangerous information being spread. We hope to provide a method that can quickly and accurately identify hallucinations in AI-generated text output.
 
